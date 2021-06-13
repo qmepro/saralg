@@ -1,16 +1,17 @@
-title: Link free
-shortTitle: Link free
-siteUrl: https://themes.marscollective.co/link-free
-description: ''
-lang: en
+title: SARAL G
+shortTitle: SARAL G
+description: SARAL G
 logo: logo.png
 favicon: favicon.png
-rounded: '16'
 colors:
-  DEFAULT: '#FAFAFA'
-  highlight: '#00d1b7'
-  accent: '#262626'
-  background: '#262626'
+  DEFAULT: "#FAFAFA"
+  highlight: "#00d1b7"
+  accent: "#262626"
+  background: "#262626"
+rounded: "16"
+siteUrl: https://saralg.netlify.app/
+lang: en
 tracking:
   which: none
-  id: ''
+  id: ""
+  label: analytics
